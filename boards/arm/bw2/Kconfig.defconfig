@@ -15,4 +15,4 @@ config ZMK_USB
 config ZMK_KSCAN_MATRIX_POLLING
     default y
 
-endif 
+endif
